@@ -6,3 +6,5 @@ Der aus vielen Marvel-Action-Filmen bekannte Iron Man rettet immer wieder auf se
 * feiert gerne Partys
 * sehr motiviert
 * erfindert gerne neue Technologien
+
+> „Manchmal muss man rennen, bevor man laufen kann“
